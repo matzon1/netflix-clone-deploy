@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matzon1/netflix-clone-deploy.git/static/css/main.0e762336.css",
+    "main.js": "/matzon1/netflix-clone-deploy.git/static/js/main.5811b7ad.js",
+    "index.html": "/matzon1/netflix-clone-deploy.git/index.html",
+    "main.0e762336.css.map": "/matzon1/netflix-clone-deploy.git/static/css/main.0e762336.css.map",
+    "main.5811b7ad.js.map": "/matzon1/netflix-clone-deploy.git/static/js/main.5811b7ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e762336.css",
+    "static/js/main.5811b7ad.js"
+  ]
+}
